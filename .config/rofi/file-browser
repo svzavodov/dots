@@ -1,0 +1,7 @@
+cmd         "exo-open"
+oc-cmd      "firefox;icon:firefox"
+oc-cmd      "gimp;icon:gimp"
+oc-cmd      "xournalpp;icon:xournalpp"
+oc-cmd      "eog;icon:eog"
+depth       1
+

@@ -1,0 +1,4 @@
+import = ["/home/sergey/.config/alacritty/cattpucin-mocha.toml"]
+
+[font]
+size = 12
